@@ -1,4 +1,5 @@
-<p align="center"><img src="https://www.canva.com/design/DAD_LWIrpq0/2x3C6U-d-yfLCb_A28io6Q/view?utm_content=DAD_LWIrpq0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" alt="Challenge Accepted" width="200"></p>
+![frontend quiz](https://user-images.githubusercontent.com/14244623/224865862-df4bb99b-cab9-44f1-944e-2085e361eed6.png)
+
 
 # Front-end Quiz
 
